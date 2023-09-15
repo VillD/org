@@ -16,7 +16,9 @@ const Footer = () => {
           <img src="/img/icon-ig.svg" alt="instagram" />
         </a>
       </div>
-      <img src="/Group 1.png" alt="org" />
+      <div className="img">
+        <img src="/Group 1.png" alt="org" />
+      </div>
       <strong>&#169; Desarrollado por DDDesign</strong>
     </footer>
   )
